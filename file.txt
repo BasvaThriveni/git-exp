@@ -1,2 +1,2 @@
 Hello
-newline
+new line
